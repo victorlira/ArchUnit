@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - release-*
+      - migrate-to-junit-5.simplify
   pull_request:
 
 env:
